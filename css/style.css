@@ -1,8 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 body{
     background-color: pink;
     text-align: center;
@@ -10,13 +5,11 @@ body{
 
 .txt{
     color: rgb(82, 13, 13);
-    position: absolute;
-    display: flex;
     font-family: 'Great Vibes', cursive;
     font-style: oblique;
     font-weight: bolder;
-    font-size: 1.5rem;
-    margin-left: 0;
+    font-size: 2rem;
+    margin-left: 20rem;
     margin-top: 0rem;
 }
 
@@ -24,13 +17,12 @@ div{
     position: absolute;
     margin: 0;
     padding: 0;
-    max-width: 500px;
 }
 
 .corazon{
     width: 20rem;
-    margin-left: 7rem;
-    margin-top: 14rem;
+    margin-left: 32.5rem;
+    margin-top: 13rem;
 }
 
 .c1{
@@ -76,7 +68,7 @@ button{
     background-color: rgb(82, 13, 13);
     position: relative;
     margin-top: 34rem;
-    margin-left: 6.5rem;
+    margin-left: 32rem;
     width: 9rem;
     height: 3rem;
     font-weight: bolder;
