@@ -1,0 +1,84 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+
+h1{
+    color: rgb(82, 13, 13);
+    font-family: 'Great Vibes', cursive;
+    font-weight: bolder;
+    font-size: 2.4rem;
+    margin-left: 5rem;
+    margin-top: 0rem;
+    max-width: 80%;
+    text-align: start;
+}
+
+div{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+
+.corazon{
+    width: 20rem;
+    margin-left: 32.5rem;
+    margin-top: 13rem;
+}
+
+.c1{
+    position: absolute;
+    width: 5rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    box-shadow: red 20 2 0 0;
+    
+}
+.c2{
+    position: absolute;
+    width: 5rem;
+    margin-top: 8rem;
+    margin-left: 15rem;
+}
+.c3{
+    position: absolute;
+    width: 5rem;
+    margin-top: 16rem;
+    margin-left: 7rem;
+}
+.c4{
+    position: absolute;
+    width: 5rem;
+    margin-top: 23rem;
+    margin-left: 20rem;
+}
+.c5{
+    position: absolute;
+    width: 5rem;
+    margin-top: 0rem;
+    margin-left: 25rem;
+}
+.c6{
+    position: absolute;
+    width: 5rem;
+    margin-top: 30rem;
+    margin-left: 5rem;
+}
+
+button{
+    background-color: rgb(82, 13, 13);
+    position: relative;
+    margin-top: 34rem;
+    margin-left: 32rem;
+    width: 9rem;
+    height: 3rem;
+    font-weight: bolder;
+    font-size: 2rem;
+    border-radius: 2rem;
+    border-color: white;
+    color: white;
+}
+
+.no{
+    margin-left: 2rem;
+}
